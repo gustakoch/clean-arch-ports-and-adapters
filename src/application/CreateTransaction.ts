@@ -1,5 +1,5 @@
 import pgp from 'pg-promise';
-import TransactionRepository from '../domain/repositories/TransactionRepository';
+import TransactionRepository from './repositories/TransactionRepository';
 import Transaction from '../domain/entities/Transaction';
 
 export default class CreateTransaction {

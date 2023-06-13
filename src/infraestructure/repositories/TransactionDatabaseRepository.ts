@@ -1,6 +1,6 @@
 import Installment from "../../domain/entities/Installment";
 import Transaction from "../../domain/entities/Transaction";
-import TransactionRepository from "../../domain/repositories/TransactionRepository";
+import TransactionRepository from "../../application/repositories/TransactionRepository";
 import Connection from "../database/Connection";
 
 export default class TransactionDatabaseRepository implements TransactionRepository {

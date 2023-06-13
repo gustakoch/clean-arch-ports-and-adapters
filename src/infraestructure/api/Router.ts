@@ -1,6 +1,6 @@
 import CreateTransaction from "../../application/CreateTransaction";
 import GetTransaction from "../../application/GetTransaction";
-import TransactionRepository from "../../domain/repositories/TransactionRepository";
+import TransactionRepository from "../../application/repositories/TransactionRepository";
 import PostgresAdapter from "../database/PostgresAdapter";
 import TransactionDatabaseRepository from "../repositories/TransactionDatabaseRepository";
 import HttpServer from "./HttpServer";

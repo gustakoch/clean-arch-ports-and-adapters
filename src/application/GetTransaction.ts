@@ -1,4 +1,4 @@
-import TransactionRepository from '../domain/repositories/TransactionRepository';
+import TransactionRepository from './repositories/TransactionRepository';
 
 export default class GetTransaction {
     constructor(readonly transactionRepository: TransactionRepository) {
