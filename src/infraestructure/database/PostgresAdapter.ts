@@ -19,5 +19,4 @@ export default class PostgresAdapter implements Connection {
     close(): Promise<void> {
         return this.connection.$pool.end();
     }
-
 }

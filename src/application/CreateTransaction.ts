@@ -1,4 +1,3 @@
-import pgp from 'pg-promise';
 import TransactionRepository from './repositories/TransactionRepository';
 import Transaction from '../domain/entities/Transaction';
 
