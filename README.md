@@ -1,8 +1,8 @@
-# Use Case Cheesecake Labs
+# Clean Architecture and Ports & Adapters
 
 ![Ports and Adapters](./resources//portsandadapters.png)
 
-This challenge consists of presenting an application idea applying concepts about Object Orientation, TDD, Ports and Adapters Hexagonal Architecture, Clean Architecture, DDD, SOLID and Design Patterns.
+Template idea applying concepts about Object Orientation, TDD, Ports and Adapters Hexagonal Architecture, Clean Architecture, DDD, SOLID and Design Patterns.
 
 ## Running the application
 - Clone this repository;
